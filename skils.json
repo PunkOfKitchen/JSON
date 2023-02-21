@@ -15,8 +15,8 @@
 			"XCode": "yes",
 			"Android Studio": "yes",
 			"Charles": "yes",
-			"Fiddler": "yes"
-			"Terminal(Linux)": "yes"
+			"Fiddler": "yes",
+			"Terminal(Linux)": "yes",
 			"SQL": "yes"
 		}
 },
