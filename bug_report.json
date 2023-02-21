@@ -1,1 +1,13 @@
-
+{
+      "bug report": {
+                      "id": "yes",
+                      "title": "yes",
+                      "steps": "yes",
+                      "expected result": "yes",
+                      "actual result": "yes",
+                      "attachments": "yes",
+                      "severity": "yes",
+                      "priority": "yes",
+                      "status": "yes"
+      }
+}
