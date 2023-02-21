@@ -1,0 +1,30 @@
+{
+	"skils of course": {
+		"basic theory": 
+			"what is QA",
+		"client server architecture": "yes",
+		"HTTP Methods": "yes",
+		"HTTP codes": "yes",
+		"What is JSON and XML": "yes"
+},
+		{
+		"Tools" : {
+			"Postman": "yes",
+			"Jmeter": "yes",
+			"Dev Tools": "yes",
+			"XCode": "yes",
+			"Android Studio": "yes",
+			"Charles": "yes",
+			"Fiddler": "yes"
+			"Terminal(Linux)": "yes"
+			"SQL": "yes"
+		}
+},
+		{
+		"programming languages": {
+				"python": "yes",
+				"Java": "no",
+				"JavaScript": "no"
+		}
+},
+}
